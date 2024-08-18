@@ -1,4 +1,4 @@
-# Hi 👋, I'm Ray. Currently an AI Engineer,strangely focus on Fullstack Dev from Taiwan
+# Hi 👋, I'm Ray. Currently an AI Engineer,focus on AI application and Fullstack Dev.
 
 [![Linkedin: Ray Lu](https://img.shields.io/badge/-RayLu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/uray-lu/)](https://www.linkedin.com/in/uray-lu/)
 [![Gmail: Ray Lu](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:hool19965401@gmail.com)](george-2270227@gmail.com)

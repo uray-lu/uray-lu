@@ -10,20 +10,22 @@ Formerly a machine learning engineer and data scientist, later moved into backen
 Starting this blog to document my reflections and my life occasionally, to sharpen my writing and organize my thoughts in this AI era.<br>  
 
 
-### ⚡️Tech Stack
+### ⚡️Tech
 
-#### Programming Languages:
+#### Programming:
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://go.dev/" target="_blank" rel="noreferrer"> <img src="https://go.dev/images/go-logo-white.svg" alt="typescript" width="40" height="40"/>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
 <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/R-.svg" alt="r" width="40" height="40"/>
 
 
-### Backend Development
+### Backend Dev
 <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/FastAPI.svg" alt="fastapi" width="40" height="40"/>
-<a href="https://www.f5.com/go/product/welcome-to-nginx" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/NGINX.svg" alt="nginx" width="40" height="40"/> </a>
+<a href="https://gin-gonic.com/en/" target="_blank" rel="noreferrer"> <img src="https://gin-gonic.com/_astro/gin.D6H2T_2v.png" alt="nginx" width="40" height="40"/> </a>
 
-### Frontend Devlopment
+### Frontend Dev
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+<a href="https://astro.build/" target="_blank" rel="noreferrer"> <img src="https://astro.build/assets/press/astro-icon-light-gradient.svg" alt="html5" width="40" height="40"/> </a>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 

@@ -4,12 +4,10 @@
 [![Gmail: Ray Lu](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:hool19965401@gmail.com)](george-2270227@gmail.com)
 <br>
 
-### 💼 Work Experience
-
-AI Engineer in game industry.  
-  * Led the development of an AI-driven translation system using React.ts for frontend and FastAPI with Redis for backend services, achieving significant performance enhancements through Advanced Weight Quantization and vLLM for faster inference.
-  * Designed and implemented a Retrieval-Augmented Generation (RAG) system utilizing Flask, AWS SDK, and LangChain, focusing on backend optimizations for improved chatbot functionality and document management.
-  * Led the setup and management of a departmental GitLab server using Docker-compose, implementing automated backup mechanisms with Airflow and enhancing system stability through monitoring and alerting with Prometheus and Alertmanager, including notifications via Telegram.
+### 💼 About me
+Hi, I’m Ray, a software engineer based in Taipei, working at a security-focused big tech.<br>   
+Formerly a machine learning engineer and data scientist, later moved into backend development — without a CS degree.<br>  
+Starting this blog to document my reflections and my life occasionally, to sharpen my writing and organize my thoughts in this AI era.<br>  
 
 
 ### ⚡️Tech Stack

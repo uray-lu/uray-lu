@@ -43,6 +43,7 @@ Formerly a machine learning engineer and data scientist, later moved into backen
 <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> 
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
 <a href="https://prometheus.io/" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/Prometheus.svg" alt="prometheus" width="40" height="40"/> </a> 
+<a href="https://grafana.com/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxRIBdiojMkkpz1m1HvEO7lVl6xZ_xcLrgacqDmLNPlmdN93uNRZV2sZV7Thq0RksOjlFigEGPeckhoWSAPOrFKKaXbJMsj55dmk6uhje6&s=10" alt="prometheus" width="40" height="40"/> </a> 
 
 ### Others
 

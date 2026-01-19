@@ -7,8 +7,6 @@
 ### 💼 About me
 Hi, I’m Ray, a software engineer based in Taipei, working at a security-focused big tech.<br>   
 Formerly a machine learning engineer and data scientist, later moved into backend development — without a CS degree.<br>  
-Starting this blog to document my reflections and my life occasionally, to sharpen my writing and organize my thoughts in this AI era.<br>  
-
 
 ### ⚡️Tech
 
@@ -22,6 +20,8 @@ Starting this blog to document my reflections and my life occasionally, to sharp
 ### Backend Dev
 <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/FastAPI.svg" alt="fastapi" width="40" height="40"/>
 <a href="https://gin-gonic.com/en/" target="_blank" rel="noreferrer"> <img src="https://gin-gonic.com/_astro/gin.D6H2T_2v.png" alt="nginx" width="40" height="40"/> </a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
+<a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMjauwQ_xYJg2xEOQGuCJ0-XoSXyT20d5kVxdBQ5OrulMEVX7JQhDQJQC2lcbu4e-6A3KrULwajle5FYggLaG1UBqDPkb71e_mFYLG3pBw&s=10" alt="docker" width="40" height="40"/> </a> 
 
 ### Frontend Dev
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
@@ -42,7 +42,6 @@ Starting this blog to document my reflections and my life occasionally, to sharp
 ### DevOps
 <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> 
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
 <a href="https://prometheus.io/" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/Prometheus.svg" alt="prometheus" width="40" height="40"/> </a> 
 
 ### Others

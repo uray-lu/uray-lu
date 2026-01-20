@@ -4,8 +4,8 @@
 [![Gmail: Ray Lu](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:hool19965401@gmail.com)](george-2270227@gmail.com)
 <br>
 
-### 💼 About me
-Hi, I’m Ray, a software engineer based in Taipei, working at a security-focused big tech.<br>   
+
+## Hi, I’m Ray, a software engineer based in Taipei, working at a security-focused big tech.<br>   
 Formerly a machine learning engineer and data scientist, later moved into backend development — without a CS degree.<br>  
 
 ### ⚡️Tech

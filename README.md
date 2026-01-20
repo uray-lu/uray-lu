@@ -5,8 +5,7 @@
 <br>
 
 
-## Hi, I’m Ray, a software engineer based in Taipei, working at a security-focused big tech.<br>   
-Formerly a machine learning engineer and data scientist, later moved into backend development — without a CS degree.<br>  
+### Hi, I’m Ray, a software engineer based in Taipei, working at a security-focused big tech.Formerly a machine learning engineer and data scientist, later moved into backend development — without a CS degree.  
 
 ### ⚡️Tech
 
